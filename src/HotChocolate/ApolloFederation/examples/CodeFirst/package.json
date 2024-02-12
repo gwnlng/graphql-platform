@@ -9,7 +9,7 @@
     "concurrently": "latest"
   },
   "dependencies": {
-    "@apollo/gateway": "latest",
+    "@apollo/gateway": "2.0.0",
     "apollo-server": "latest",
     "graphql": "latest"
   }
